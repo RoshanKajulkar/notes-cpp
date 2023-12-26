@@ -1,3 +1,7 @@
+/*
+Just an alternative
+*/
+
 #include <cstdio>
 
 using namespace std;
