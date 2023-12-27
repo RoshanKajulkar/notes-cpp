@@ -1,0 +1,10 @@
+lower case upper case allowed - timTimmy timtimmy 
+numbers allowed 0-9 - but you cannot start the name with numbers
+_ underscore allowed 
+keywords not allowed 
+non latin support - but not recommended
+try to have less than 31 characters name
+
+
+_ means private
+__ means system keyword
